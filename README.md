@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="assets/logo.png" alt="EdgeForgeDev" width="120"/>
+</p>
+
 # EdgeForgeDev
 
 > **Plateforme DevOps avec IA locale pour PME françaises** · RGPD natif · Auto-hébergeable · Open Source AGPL-3.0

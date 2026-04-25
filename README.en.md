@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="assets/logo.png" alt="EdgeForgeDev" width="120"/>
+</p>
+
 # EdgeForgeDev
 
 > **DevOps platform with local AI for European SMBs** · GDPR-native · Self-hostable · Open Source AGPL-3.0
